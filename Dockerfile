@@ -19,3 +19,5 @@ Run systemctl enable httpd
 #Run yum install -y postgresql93-server postgresql93-contrib
 
 
+=======
+>>>>>>> 4294b5842b7a117f5f9c6b5d6be2f7a456e61722
